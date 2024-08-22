@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815933757737",
+    "project_id": "florafind-36d94",
+    "storage_bucket": "florafind-36d94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815933757737:android:f60f18705c5b97a8b6bf38",
+        "android_client_info": {
+          "package_name": "com.arm.florafind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFeZCflDqg8t23X6FGmMMbcHbw1kPAUCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
